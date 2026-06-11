@@ -1,5 +1,10 @@
 #include<iostream>
 using namespace std;
+
+void func(){
+cout<<"twinkle";
+}
+
 int main(){
  if(2>3)
  cout<<"raghav is great";
