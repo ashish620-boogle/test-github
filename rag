@@ -1,9 +1,10 @@
 #include<iostream>
 using namespace std;
 
+
 void func(){
-int a = 2001;
-a++;
+int a = 2000;
+++a;
 cout<<a<<"twinkle";
 }
 
