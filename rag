@@ -2,7 +2,9 @@
 using namespace std;
 
 void func(){
-cout<<"twinkle";
+int a = 2001;
+a++;
+cout<<a<<"twinkle";
 }
 
 int main(){
